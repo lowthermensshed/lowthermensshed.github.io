@@ -4,9 +4,14 @@ title: About our Shed
 subtitle: We're building a Men's Shed in Leadhills
 ---
 
-*Picture of shed*
+![A Picture of the shed in place at the ski club](../assets/img/skihut_shed_1.jpg "A Picture of the shed in place at the ski club")
+***
+![A Picture of the shed in place at the ski club](../assets/img/skihut_shed_2.jpg "A Picture of the shed in place at the ski club")
+***
 This is the shed we are hoping to use
+***
 *picture of place it's going to be put*
+***
 And this is the place we are hoping to put it
 
 ### The Men's Shed Story
