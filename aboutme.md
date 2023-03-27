@@ -19,8 +19,8 @@ Men's Sheds are community spaces for men to connect, converse and create. The ac
 
 Useful Links
 <div style="page-break-after: always"></div>
-https://menssheds.org.uk/
+[menssheds.org.uk](https://menssheds.org.uk/)
 <div style="page-break-after: always"></div>
-https://scottishmsa.org.uk/
+[scottishmsa.org.uk](https://scottishmsa.org.uk/)
 <div style="page-break-after: always"></div>
-https://www.mensshedscymru.co.uk/
+[mensshedscymru.co.uk](https://www.mensshedscymru.co.uk/)
