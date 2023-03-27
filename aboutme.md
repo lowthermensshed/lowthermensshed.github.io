@@ -10,7 +10,7 @@ subtitle: We're building a Men's Shed in Leadhills
 <div style="page-break-after: always"></div>
 This is the shed we are hoping to use
 <div style="page-break-after: always"></div>
-picture of place it's going to be put
+![A Picture of where we hope to put the shed](../assets/img/shed_location.jpg "A Picture of where we hope to put the shed")
 <div style="page-break-after: always"></div>
 And this is the place we are hoping to put it
 
