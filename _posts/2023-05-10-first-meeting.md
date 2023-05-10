@@ -33,9 +33,9 @@ We are in the process of filing for planning permission to erect the Men’s She
 
 ## 5: Next Meeting 
 
-Will be held 9th June 6:30 pm at 2,Gowanbank Leadhills. ML12 6YB all Welcome. If you need directions Phone Nigel: 07766264455 
+Will be held 9th June 6:30 pm at 2 Gowanbank, Leadhills. ML12 6YB all Welcome. If you need directions Phone Nigel: 07766264455 
 Come and have a coffee and a chat. 
 
 ## 6: Meeting closed. 
 
-![First Meeting](../assets/imgs/first_meeting.jpg "Everyone at the first meeting")
+![First Meeting](../assets/img/first_meeting.jpg "Everyone at the first meeting")
