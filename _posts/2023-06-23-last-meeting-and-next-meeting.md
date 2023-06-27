@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Next Meeting Friday 14/07/2023 - 6:30pm 
-subtitle: meet at the radar road gate, Wanlockhead
+title: Minutes from the last meeting 9/6/23
+subtitle: Next Meeting, Friday 14/07/2023 - 6:30pm Meet at the radar road gate, Wanlockhead
 gh-repo: lowthermensshed/lowthermensshed.github.io
 gh-badge: [star, fork, follow]
 tags: [leadhills, lowther, men's shed, meeting]
@@ -10,7 +10,7 @@ comments: true
 LOWTHER & DISTRICT
 Men’s Shed 
 
-Hi shedders firstly sorry the late update on our meeting held 9th June have been on holiday. 
+Hi shedders firstly sorry the late update on our meeting held 9th June, I have been on holiday. 
 
 Minutes of meeting held at Lowther Hill 9th June 2023 
 
