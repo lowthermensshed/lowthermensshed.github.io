@@ -7,10 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [leadhills, lowther, men's shed, meeting]
 comments: true
 ---
-LOWTHER & DISTRICT
-Men’s Shed 
-
-Hi shedders firstly sorry the late update on our meeting held 9th June, I have been on holiday. 
+Hi Shedders firstly sorry the late update on our meeting held 9th June, I have been on holiday. 
 
 Minutes of meeting held at Lowther Hill 9th June 2023 
 
