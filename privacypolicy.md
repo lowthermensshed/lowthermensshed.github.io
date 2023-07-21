@@ -16,19 +16,18 @@ We currently collect and process the following information:
 * Personal identifiers, contacts and characteristics (member and trustee name and contact details)
 <br>
 * The date on which members were registered as a member of the organisation.
-<br>
+<div style="page-break-after: always"></div>
 ### How we get the personal information and why we have it
 The personal information that we process is provided to us directly by you for the following reason:
 <br>
 * to hold a register of members and trustees
 <br>
-We use the information that you provide in order to create a register of members and register of trustees to enable us to comply as a Scottish Charitable Incorporated Organisation (SCIO).
-<br>
+We use the information that you provide in order to create a register of members and register of trustees to enable us to comply as a Scottish Charitable Incorporated Organisation (SCIO).  
 If legally required to do so, we may share this information with the Scottish Charity Regulator (OSCR).
 Under the UK General Data Protection Regulation (UK GDPR), the lawful bases that we rely on for processing this information is:
 <br>
 * we have a legal obligation as a Scottish Charitable Incorporated Organisation (SCIO).
-<br>
+<div style="page-break-after: always"></div>
 ### How we store your personal information
 Your information is securely stored on a password protected spreadhseet.
 <br>
@@ -41,10 +40,11 @@ As Lowther and District Men’s Shed legally has to maintain a register of membe
 * Your right of access
 <br>
 You have the right to ask us for copies of your personal information.
+<div style="page-break-after: always"></div>
 * Your right to rectification
 <br>
 You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.
-<br>
+<div style="page-break-after: always"></div>
 This must be undertaken within 28 days from date of request. You are not required to pay any charge for exercising your rights. If you make a request, we have 28 days to respond to you.
 <br>
 Please contact us at clivewgreatorex+mensshed@gmail.com if you wish to make a request.
