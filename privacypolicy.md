@@ -60,19 +60,13 @@ You can also complain to the ICO if you are unhappy with how we have used your d
 
 ### The ICO’s address:
 Information Commissioner’s Office
-<div style="page-break-after: always"></div>
 Wycliffe House
-<div style="page-break-after: always"></div>
 Water Lane
-<div style="page-break-after: always"></div>
 Wilmslow
-<div style="page-break-after: always"></div>
 Cheshire
-<div style="page-break-after: always"></div>
 SK9 5AF
 <div style="page-break-after: always"></div>
 Helpline number: 0303 123 1113
-<div style="page-break-after: always"></div>
 ICO website: https://www.ico.org.uk
 <div style="page-break-after: always"></div>
 <div style="page-break-after: always"></div>
