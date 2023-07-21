@@ -58,16 +58,10 @@ If you have any concerns about our use of your personal information, you can mak
 You can also complain to the ICO if you are unhappy with how we have used your data.
 
 ### The ICO’s address:
-Information Commissioner’s Office ;NBSP
-Wycliffe House ;NBSP
-Water Lane ;NBSP 
-Wilmslow ;NBSP
-Cheshire ;NBSP
-SK9 5AF
+Information Commissioner’s Office  Wycliffe House  Water Lane  Wilmslow  Cheshire  SK9 5AF
 <div style="page-break-after: always"></div>
 <div style="page-break-after: always"></div>
-Helpline number: 0303 123 1113 ;NBSP
-ICO website: https://www.ico.org.uk
+Helpline number: 0303 123 1113  ICO website: https://www.ico.org.uk
 <div style="page-break-after: always"></div>
 <div style="page-break-after: always"></div>
 Version 1.1 Date: 21/07/2023
