@@ -5,9 +5,9 @@ subtitle: How we handle your data if you become a member of this Mens Shed
 ---
 
 ### This website doesn't track your visits
-It's simply a place for people to visit so that they can stay up to date with news of the Mens Shed.
+It's simply a place for people to visit so that they can stay up to date with news of the Mens Shed.  
 It doesn't use cookies or any kind of tracking.
-<br>
+<div style="page-break-after: always"></div>
 The Mens Shed will record members details after they join the shed. Please keep reading to see how we handle this information.
 <br>
 ### The type of personal information we collect
