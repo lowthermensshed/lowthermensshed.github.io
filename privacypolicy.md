@@ -9,7 +9,6 @@ It's simply a place for people to visit so that they can stay up to date with ne
 It doesn't use cookies or any kind of tracking.
 <div style="page-break-after: always"></div>
 The Mens Shed will record members details after they join the shed. Please keep reading to see how we handle this information.
-
 <div style="page-break-after: always"></div>
 
 ### The type of personal information we collect
@@ -60,11 +59,17 @@ You can also complain to the ICO if you are unhappy with how we have used your d
 
 ### The ICO’s address:
 Information Commissioner’s Office
+<div style="page-break-after: always"></div>
 Wycliffe House
+<div style="page-break-after: always"></div>
 Water Lane
+<div style="page-break-after: always"></div>
 Wilmslow
+<div style="page-break-after: always"></div>
 Cheshire
+<div style="page-break-after: always"></div>
 SK9 5AF
+<div style="page-break-after: always"></div>
 <div style="page-break-after: always"></div>
 Helpline number: 0303 123 1113
 ICO website: https://www.ico.org.uk
