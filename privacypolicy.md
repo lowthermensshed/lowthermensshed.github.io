@@ -23,7 +23,8 @@ The personal information that we process is provided to us directly by you for t
 <br>
 * to hold a register of members and trustees
 <div style="page-break-after: always"></div>
-We use the information that you provide in order to create a register of members and register of trustees to enable us to comply as a Scottish Charitable Incorporated Organisation (SCIO).  
+We use the information that you provide in order to create a register of members and register of trustees to enable us to comply as a Scottish Charitable Incorporated Organisation (SCIO).
+<div style="page-break-after: always"></div>
 If legally required to do so, we may share this information with the Scottish Charity Regulator (OSCR).
 <div style="page-break-after: always"></div>
 Under the UK General Data Protection Regulation (UK GDPR), the lawful bases that we rely on for processing this information is:
