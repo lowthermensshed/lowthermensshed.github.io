@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agenda For the Next Meeting 18/8/2023
+title: Minutes from last Meeting 18/8/2023
 subtitle: Held at Lowther Hill
 gh-repo: lowthermensshed/lowthermensshed.github.io
 gh-badge: [star, fork, follow]
