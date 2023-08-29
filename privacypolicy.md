@@ -32,7 +32,7 @@ Under the UK General Data Protection Regulation (UK GDPR), the lawful bases that
 * we have a legal obligation as a Scottish Charitable Incorporated Organisation (SCIO).
 <div style="page-break-after: always"></div>
 ### How we store your personal information
-Your information is securely stored on a password protected spreadhseet.
+Your information is securely stored on a password protected spreadsheet.
 <div style="page-break-after: always"></div>
 We keep member and trustee contact details on the registers for 6 years as a condition of becoming an SCIO. We will then dispose your information by shredding/incinerating the application form and deleting the computer record from the spreadsheet.
 <div style="page-break-after: always"></div>
