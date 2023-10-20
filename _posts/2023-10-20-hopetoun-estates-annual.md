@@ -7,8 +7,8 @@ gh-badge: [star, fork, follow]
 tags: [leadhills, lowther, men's shed, meeting]
 comments: true
 ---
-### Hopetoun Estates Annual Community Consultation 
-## 10th October 2023  
+## Hopetoun Estates Annual Community Consultation 
+### 10th October 2023  
 
 Hopetoun estates invited L&DMS to join them in the Leadhills village hall, which was greatly accepted, this gave us a good opportunity to promote the Lowther & District Men’s Shed and be a part of the District Roadshows. 
 
