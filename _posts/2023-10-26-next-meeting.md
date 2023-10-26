@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Meeting anda funding update
+title: Next Meeting and a funding update
 subtitle: Friday 17th November 6:30pm
 gh-repo: lowthermensshed/lowthermensshed.github.io
 gh-badge: [star, fork, follow]
