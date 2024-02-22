@@ -7,11 +7,11 @@ gh-badge: [star, fork, follow]
 tags: [leadhills, lowther, men's shed]
 comments: true
 ---
-### Lowther and District Men's Shed
+# Lowther and District Men's Shed
 
 ## Agenda for the next meeting
 
-# 2 Gowanbank, Leadhills, ML12 6YB. 1st of March 2024 6:30pm
+### 2 Gowanbank, Leadhills, ML12 6YB. 1st of March 2024 6:30pm
 
 1, Chairperson, Report. 
 
