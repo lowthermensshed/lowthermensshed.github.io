@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [leadhills, lowther, men's shed]
 comments: true
 ---
-# Lowther and District Men's Shed
+# Next Meeting Agenda
 
 ## AGENDA 
 
@@ -43,4 +43,4 @@ ALL ARE VERY WELCOME YOUR INPUT IS VERY IMPORTANT.
 
 Nigel Davies Secretary L&DMS
 
-[mailto:lowthermensshed@gmail.com]lowthermensshed@gmail.com
+[lowthermensshed@gmail.com](mailto:lowthermensshed@gmail.com)
