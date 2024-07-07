@@ -10,7 +10,7 @@ comments: true
 # Lowther and District Men's Shed
 ## MINUTES OF MEETING 
 
-Hill Building 14/06/2024 6:30 pm 
+Hill Building 14/06/2024 6:30pm 
 
 Attending: J. Lowdon.(chair). 
 
