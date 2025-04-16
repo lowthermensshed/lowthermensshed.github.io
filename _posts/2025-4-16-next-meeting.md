@@ -10,6 +10,7 @@ comments: true
 # Lowther and District Men's Shed
 ## FRI: 25/04/2025. 6:30pm at the shed. 4, Ramsay road, Leadhills 
 
+
 1. Open meeting and Apologies. 
 
 2. Approval of minutes held Friday 28/03/2025. 
