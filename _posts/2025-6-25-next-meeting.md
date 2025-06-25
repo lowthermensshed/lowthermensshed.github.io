@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Next meeting
-subtitle: Friday: 27/06/2025. 6:30pm at the shed. 4 Ramsay road, Leadhills
+subtitle: Friday 27/06/2025. 6:30pm at the shed, 4 Ramsay road, Leadhills
 gh-repo: lowthermensshed/lowthermensshed.github.io
 gh-badge: [star, fork, follow]
 tags: [leadhills, lowther, men's shed]
