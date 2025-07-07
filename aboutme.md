@@ -13,7 +13,8 @@ This is the shed we are hoping to use
 ![A Picture of where we hope to put the shed](../assets/img/shed_location.jpg "A Picture of where we hope to put the shed")
 <div style="page-break-after: always"></div>
 And this is the place we are hoping to put it!
-[A Picture of the new shed](../assets/img/new_shed.jpg "A Picture of the new shed")
+<div style="page-break-after: always"></div>
+![A Picture of the new shed](../assets/img/new_shed.jpg "A Picture of the new shed")
 <div style="page-break-after: always"></div>
 The shed is up and almost open now
 
