@@ -31,7 +31,10 @@ Your Input is Very Important.
 
 Nigel Davies, Secretary, L&DMS. 
 
-lowthermensshed@gmail.com 
-Facebook: lowthermensshed 
-Lowthermensshed.co.uk 
+lowthermensshed@gmail.com
+
+Facebook: lowthermensshed
+
+Lowthermensshed.co.uk
+
 Phone: 07766264455 
